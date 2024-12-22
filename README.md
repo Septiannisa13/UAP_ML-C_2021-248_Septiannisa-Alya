@@ -205,6 +205,6 @@ Proyek ini berhasil mengintegrasikan **analisis data**, **model prediksi**, dan 
 
 ---
 ## 📌 **Author**
-- Nama: Septiannisa Alya Shinya Purwandhani
+- Nama: Septiannisa Alya Shinta Purwandhani
 - NIM: 202110370311248
 - ✉️ alyaseptiannisa@gmail.com 
